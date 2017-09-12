@@ -1,0 +1,23 @@
+{
+  "name": "day2",
+  "version": "1.0.1",
+  "description": "ziji zuo de xia wan de",
+  "main": "04.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "bar": "^1.0.1",
+    "silly-datetime": "^0.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "good",
+    "greet"
+  ],
+  "author": "wtx",
+  "license": "ISC"
+}
